@@ -1,0 +1,9 @@
+openpyxl
+datasets
+transformers
+indoNLP
+itables
+tensorflow
+tf_keras
+indonlp
+jinja2
