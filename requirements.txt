@@ -7,3 +7,5 @@ tensorflow
 tf_keras
 indonlp
 jinja2
+requests
+tqdm
