@@ -9,3 +9,9 @@ indonlp
 jinja2
 requests
 tqdm
+deep-translator
+torch
+huggingface_hub
+humanize
+jupyter
+ipywidgets
